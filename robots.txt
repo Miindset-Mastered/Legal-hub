@@ -1,0 +1,6 @@
+# robots.txt for Miindset Mastered legal hub
+User-agent: *
+Allow: /
+
+# Point search engines to your sitemap for indexing
+Sitemap: https://shaunbennie.github.io/miindset-privacy/sitemap.xml
