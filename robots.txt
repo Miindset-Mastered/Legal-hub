@@ -3,4 +3,4 @@ User-agent: *
 Allow: /
 
 # Point search engines to your sitemap for indexing
-Sitemap: https://shaunbennie.github.io/miindset-privacy/sitemap.xml
+Sitemap: https://Miindset-Mastered.github.io/legal-hub/sitemap.xml
